@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SearchBar",
-    "slug": "SearchBar",
+    "name": "init",
+    "slug": "init",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
